@@ -2,83 +2,85 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-12/2025-12-02
+next: /en/2025-12/2025-12-03
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI News Daily 2025/12/3
+## AI News Daily 2025/12/4
 
-> `AI News` | `Daily Morning Read` | `Aggregated Web Data` | `Cutting-Edge Science Exploration` | `Industry Open Voice` | `Open Source Innovation Power` | `AI and Human Future` | [Visit Web Version ↗️](https://ai.hubtoday.app/) | [Join Group Chat 🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
+> AI News | Daily Morning Read | All-Network Data Aggregation | Cutting-Edge Science Exploration | Industry Free Voice | Open Source Innovation Power | AI & Human Future | [Visit Web Version 🚀](https://ai.hubtoday.app/) | [Join Group Chat 👋](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
-### **Today's Summary**
+### **Today's Digest**
 
 ```
-Runway released Gen-4.5 to enhance video realism, while Qianwen Qwen-Image upgraded image editing capabilities.
-Aishi Tech's PixVerse V5.5 model launched, enabling one-click story generation with shot sequencing and audio.
-In cutting-edge research, Nvidia introduced Alpamayo-R1 to teach autonomous vehicles causal understanding.
-Industry dynamics indicate OpenAI has raised a red alert, preparing to fully counter Google's Gemini 3.
-Meanwhile, SenseTime spun off its AI healthcare company, securing a billion in financing to accelerate AI medical commercialization.
+AI product updates have been frequent recently, with Li Auto releasing AI glasses and Google launching Android 16.
+AWS has unveiled a full suite of AI Agents, supporting the global expansion of domestic models like Kimi.
+In frontier research, the C²-Cite model can cite sources for AI answers, tackling content hallucination.
+At the industry level, demand for spatiotemporal intelligence is exploding, while OpenAI faces intense competition.
+Additionally, miHoYo co-founder launched an AI catgirl, and China's first AI companion reading system for blind children is now online.
 ```
 
-### Product and Feature Updates
+### Product & Feature Updates
 
-1.  **Runway's Gen-4.5** just dropped, and video generation is having a major moment! This bad boy finally gets physics, making shadows, light, and even dust look incredibly real. It looks like [this AI news report](https://www.qbitai.com/2025/12/358232.html) was spot on—the line between reality and AI is blurrier than ever. 🤯
+1.  Li Auto isn't content with just being a "sofa TV on wheels." The company officially launched its **Li Auto AI Glasses Livis**, pulling the smart experience right onto your nose! ✨ Starting at 1699 yuan (after subsidies), these glasses are not only co-developed with Zeiss for top-notch optics but also serve as the first "embodiment" of Li Auto's **MindGPT-4o** large model outside the vehicle. Get ready for "Li Xiang Tong Xue" (AI assistant) to chat with you 24/7! 💬 This move signals Li Auto's official entry into the embodied AI domain, exploring a future of seamless human, car, and AI collaboration. [Learn More About This AI News Product](https://www.jiqizhixin.com/articles/2025-12-03-11).
 
-2.  **Qianwen APP's Qwen-Image** model just got a massive upgrade and it's totally free! The new model brings more stable image editing and super natural-looking photo merges. Want to check out more cool tricks? Head over to the [Qianwen official website (AI News)](https://www.jiqizhixin.com/articles/2025-12-02-9) to explore—your creativity just got unleashed! ✨
+2.  Google has officially released the Android 16 system. 📱 This new system uses AI capabilities to organize notifications, making information overload a thing of the past. Interface personalization is also significantly enhanced, so your phone will truly understand your aesthetic. 🎨 [Check Out the Latest Android AI News](https://www.xiaohu.ai/c/xiaohu-ai/google-android-16-ai).
 
-3.  **Aishi Tech's PixVerse V5.5** is here, and AI is officially ready to tell some tales! This is the first model in China that supports "shot sequencing + audio" for one-click story generation. Say goodbye to boring single shots—AI can totally be your director now. Go [read this in-depth piece (AI News)](https://www.qbitai.com/2025/12/358046.html) for all the deets! 🎥<br/>![AI News: PixVerse V5.5's Multi-Shot Narrative Capability](https://source.hubtoday.app/images/2025/12/news_01kbftsw4se9v8yh0s1jjsjj44.avif)
+3.  Amazon Web Services (AWS), the cloud computing giant, is going all out! 🚀 Their CEO boldly challenged himself to unveil 25 new products in just 10 minutes at the event, totally blowing minds. But the real game-changer is their full suite of AI Agents, alongside support for [Kimi and Other Domestic Models Going Global (AI News)]. Talk about practicality maxed out! 🤩
 
-4.  **Huatai Securities** just rolled out "**AI Zhangle**," an AI-powered app ready to help you get rich trading stocks! This AI-native trading app tackles the classic "what to buy and when to buy" dilemma. It seems [this AI news analysis](https://www.aibase.com/zh/news/23277) was spot on—traders' jobs might actually be on the line. 📈<br/>![AI News: AI Zhangle App's Smart Assistant Interface](https://source.hubtoday.app/images/2025/12/news_01kbftsz9vfya8age4hcta0bzz.avif)
+4.  miHoYo co-founder Cai Haoyu has unleashed an AI catgirl, AnuNeko! 😻 This isn't just an assistant or a pet; it's designed as an emotional, thinking creature. It'll chat with you in playful "meows," which might just be [The First Step Towards an AI Game Engine (AI News)]. How cool is that? ✨<br/>![AI News: AnuNeko's Catgirl Image](https://source.hubtoday.app/images/2025/12/news_01kbjep86yfb2aqy1aqz8carhp.avif)
 
-5.  **Amazon's AI assistant, Rufus**, absolutely crushed it on Black Friday, earning its crown as the conversion rate king! 👑 Users who leveraged Rufus saw their transaction rates literally double, leaving traditional search in the dust. [More data (AI News)](https://www.aibase.com/zh/news/23290) clearly shows that AI shopping guides are now an e-commerce must-have. 🛍️
+### Frontier Research
 
-6.  The **Kuaishou Kling team** has unveiled **IMAGE O1**, taking image generation to the next level! This new engine boasts insane consistency, letting you make pixel-perfect edits exactly where you want them. What does that mean? Way more creative freedom! Go check out [this AI news video](https://video.twimg.com/amplify_video/1995749783676616708/vid/avc1/1920x1080/bDWzJEPEBszuKORT.mp4?tag=21) to see it in action—the possibilities are endless! 🎨<br/><video src="https://source.hubtoday.app/images/2025/12/news_01kbfttpk2fs086ywvq3vggyb6.mp4" controls="controls" width="100%"></video>
+1.  The DeepSeek model was caught thinking in Chinese! 🤯 When overseas users asked questions in English, the model surprisingly switched to reasoning in "mysterious Eastern characters." This has sparked a heated debate: Is it because Chinese has higher information density, or is it due to [The Reason for Domestic Model Training Data (AI News)]? What do you think?
 
-### Cutting-Edge Research
+2.  The groundbreaking C²-Cite model has arrived! 🚀 This model lets AI answers automatically cite sources for each sentence, just like a research paper. By leveraging [Innovative Context-Aware Technology (AI News)], it completely solves the pesky problem of models "confidently making stuff up." No more AI hallucinations, folks! 🎉
 
-1.  **Nvidia** just dropped **Alpamayo-R1**, aiming to teach self-driving cars how to *think*. 🧠 This groundbreaking system introduces the first-ever "**causal chain**" dataset, helping AI grasp the "why" behind driving decisions. According to [official research (AI News)](https://research.nvidia.com/publication/2025-10_alpamayo-r1), the black-box driving era is officially on its way out. 🚗
+3.  The VLA model is actually more powerful than we thought! 💪 A [New Paper (AI News Daily)] reveals that the fragility of robot models stems from spatial perception misalignment. With just super lightweight "visual calibration," these models can regain their abilities after a change in perspective. Mind blown! 🤯
 
-2.  Visual reasoning just got a new paradigm with **Speculative Verdict**! 🤯 This clever approach lets smaller models draft initial results, then hands it over to larger models for the "final verdict." It's like a "many hands make light work" strategy, making it super efficient and cost-effective. You gotta check out [this paper (AI News)](https://arxiv.org/abs/2510.20812) to dive deeper! 💡
+4.  Sync-LoRA makes video editing absolutely seamless! 🎬 This tech can precisely modify portrait videos while perfectly maintaining original motion synchronization. By [Learning the Separation of Motion and Appearance (AI News)], it ensures AI wardrobe changes or background swaps are no longer "shaky." Pretty cool, right? 😎
 
-3.  Autonomous driving planning is getting totally revolutionized by foundation models! A [latest review (AI News)](https://arxiv.org/abs/2512.00021) just dropped, detailing 37 cutting-edge methods. It's time to wave goodbye to the era of handwritten rules—AI is learning to drive just like a human! 🤖
+### Industry Outlook & Social Impact
 
-### Industry Outlook and Social Impact
+1.  Demand for spatiotemporal intelligence is exploding! 💥 Qianxun SI's spatiotemporal service monthly call volume has surpassed one trillion, which is like giving the physical world's AI a "nervous system." From autonomous driving to the low-altitude economy, [Precise Spatiotemporal Information is Becoming a Must-Have (AI News)]. It's a game-changer! 🚀
 
-1.  **AI inference company Replicate** just announced it's "joining" Cloudflare, and it's sparking quite the buzz. 🤨 The announcement's wording is super vague, leading netizens to joke it feels less like an acquisition and more like "selling out." [Latest industry dynamics (AI News)](https://newshacker.me/story?id=46117993) reveal a mixed bag: edge computing is booming, but so are monopoly concerns. 🌐
+2.  GitHub's engineering capabilities are facing serious questions. 🧐 The Zig project moved away due to a critical bug that went unfixed for three years, with the founder directly blaming GitHub's over-AI-ification. The community wonders, [When Giants Are Obsessed with New AI Darlings (AI News)], do they forget their most basic engineering responsibilities? It's a head-scratcher. 🤔
 
-2.  **SenseTime** just spun off its AI healthcare company, and they snagged a whopping 1 billion in financing in just six months—that's wild! 😲 This soon-to-be unicorn is gunning for a "**medical world model**," with SenseTime's full backing. It looks like [this AI news report](https://www.qbitai.com/2025/12/358110.html) was right: AI healthcare is absolutely racing forward. 🩺
+3.  China's first accessible AI companion reading system has launched! 🎉 "Xiao Xing" is specially designed for blind children, tackling challenges in reading operations, comprehension, and interaction. This truly showcases [The Warm Power of Tech for Good (AI News Center)], letting the light of knowledge shine into every corner. How heartwarming! 🥰
 
-3.  Website certificate validity just got slashed to 45 days, and sysadmins everywhere are probably tearing up! 😭 While this change is all about boosting security, teams relying on manual operations are feeling the intense pressure. Automated deployment isn't just an option anymore—it's a must. Go [check out this report (AI News)](https://newshacker.me/story?id=46117126) and get those scripts double-checked! 👨‍💻
+4.  OpenAI has reportedly sounded a "Code Red" alarm! 😱 Rumor has it that due to Google's TPU and Gemini catching up, coupled with a halt in its own pre-training, OpenAI is facing immense pressure. The community is buzzing, wondering [Will the AI King's Throne Change Hands? (AI News)]. This is shaping up to be a real "Game of Thrones" in the tech world! 👑 The drama is real!
+
+5.  AI capabilities are rapidly outgrowing their stable architectures! 💥 Whether it's AI companions, agents, or cutting-edge models, their abilities are expanding at lightning speed. An [In-depth Analysis (AI News Flash)] points out that we're essentially relying on "duct tape" to hold these "organic entities" together. Talk about living on the edge! 😬
+
+6.  OpenAI has unveiled its code review system! 🕵️‍♀️ To handle the massive volume of AI-generated code, the system is designed with a "better safe than sorry" approach, reporting only critical bugs. This [Counter-Intuitive Strategy (AI News Frontier)] aims to win developers' trust and achieve efficient human-AI collaboration. Talk about a trust-building exercise! 🙌<br/>![AI News: OpenAI Code Review Process](https://source.hubtoday.app/images/2025/12/news_01kbjepdxwef0bgnmrbj3ht43z.avif)
+
+7.  AI detection tools are totally killing good writing! 😵‍💫 One user shared how his wife had to rewrite perfectly fluent text to sound clumsier, all just to pass an AI detector. This [Hilarious Yet Frustrating Story (AI News)] reveals the absurd side effects of "anti-cheating" tools. What a mess! 🤦‍♀️
 
 ### Open Source TOP Projects
 
-1.  After five years in the making, the **Transformers v5** release candidate is finally here! 🎉 This super popular AI library is now fully embracing PyTorch, all about ultimate simplicity. Seriously, go check out the [GitHub homepage (AI News)](https://github.com/huggingface/transformers/releases/tag/v5.0.0rc0)—the whole paradigm for AI development is about to shift! ✨
+1.  The Cursor team is sharing their automated code review insights! 🛠️ They use Bugbot Rules to set "ironclad laws" in natural language, automatically intercepting risky operations. This [Security Guard Named Bugbot (AI News)] played a crucial role in high-risk database migrations. Now that's smart! ✅<br/>![AI News: Bugbot Rule Configuration Example](https://source.hubtoday.app/images/2025/12/news_01kbjepj8gefhb8hyz8mm3vdap.avif)
 
-2.  The **vLLM project** has rolled out **vLLM-Omni**, kicking off the era of the all-in-one inference framework! 💪 This bad boy can handle text, images, audio, and video all under one roof, making multimodal model deployment a total breeze. Developers, you seriously need to hit up the [project homepage (AI News)](https://github.com/vllm-project/vllm-omni) and peep this—a new generation of apps is on the horizon! 🚀
+### Social Media Buzz
 
-### Social Media Shares
+1.  Qwen3-VL's long video analysis capabilities are sparking a huge debate! 🎥 The model can precisely pinpoint video details, hailed as a productivity tool but also raising concerns about surveillance risks. The community is engaged in a [Fierce Clash Between Excitement and Caution (AI News)], discussing the double-edged sword nature of this tech. It's a tricky one! ⚖️
 
-1.  **Sam Altman** just sounded a "**red alert**" inside OpenAI! 🚨 The entire company is pausing commercial projects to go all-in against Google's Gemini 3. A [social media hot post (AI News)](https://x.com/imxiaohu/status/1995765992962904202) claims the new inference model drops next week—looks like the AI war just leveled up! 🔥
+2.  The Kling O1 video creation contest is officially ON FIRE! 🔥 They're inviting creators to showcase their talent using Kling O1 and win up to $1000 in cash prizes. Now's your chance to [Unleash Your Imagination with AI (AI News)] – come on and join! 🤩<br/>![AI News: Kling O1 Creative Competition Poster](https://source.hubtoday.app/images/2025/12/news_01kbjepqf3fy9b1qnmb0dgg5mx.avif)
 
-2.  Are AI Agents always playing "forgetful"? Well, the **PRAXIS** system is giving them some serious muscle memory! 🧠 It lets agents learn from real-time experiences, getting smarter with every use. This [paper interpretation (AI News)](https://arxiv.org/pdf/2511.22074) suggests that low-cost AI self-evolution isn't just a dream anymore. ✨
+3.  The text-to-image model Seedream 4.5 has been released! 🖼️ The new version boasts significantly improved portrait consistency, top-tier aesthetics, and can generate 2K images in just 20 seconds. One user, after experiencing it [Via API on Fal (AI News)], praised its blazing speed and stunning results. Talk about impressive! 🤩<br/>![AI News: Seedream 4.5 Generated Portrait](https://source.hubtoday.app/images/2025/12/news_01kbjepww2e45b09ecjj995p83.avif)<br/>![AI News: Seedream 4.5 Generated Aesthetic Images](https://source.hubtoday.app/images/2025/12/news_01kbjeq3d0ffcbtg4a2k764sxb.avif)
 
-3.  So, how *do* AI Agents actually "see" webpages? Research has finally spilled the beans! 🧐 Turns out, directly reading HTML code is super inefficient, while new interfaces like RAG are five times faster. Future websites need to be way more "AI-friendly." Go [check out this analysis (AI News)](https://arxiv.org/pdf/2511.23281) to understand the trend! 🕸️
+4.  The Prompt Caching principle has been deeply decoded! 🧠 A [Hot Article (Latest AI News)] reveals that caching is global and prefix-based. Want to speed up your LLM application by 10x? Then put all your unchanging content at the very beginning! Seriously, try it! 🚀<br/>![AI News: Prompt Caching Principle Diagram](https://source.hubtoday.app/images/2025/12/news_01kbjeq7f5f9hax42mpwrzsbgj.avif)
 
-4.  Independent developers often stick with Plausible, while big companies are all about deep-diving into Google Analytics. 🤔 The real power of GA kicks in when you combine it with GTM, letting you track the entire user journey. This [experience sharing (AI News)](https://m.okjike.com/originalPosts/692ecb003a05f02104dc1e1a) will help you ditch your biases about GA! 📊<br/>![AI News: Using Google Analytics for Funnel Analysis](https://source.hubtoday.app/images/2025/12/news_01kbfttvg0fv9tpssncfzx6dr5.avif)
+5.  Shopping for discounts? Let AI give you a hand! 💸 A netizen shared that asking ChatGPT for discount codes before shopping on overseas websites works wonders. They easily snagged a [20% Domain Renewal Discount (AI News)] using this method. Talk about a savvy shopper! 🛍️<br/>![AI News: Using ChatGPT to Find Discount Codes](https://source.hubtoday.app/images/2025/12/news_01kbjeqbrjfzbsnz1sk3vq3agd.avif)
 
-5.  What if you could literally "speak" a workflow into existence? The **refly** platform is seriously mind-blowing! 🤯 You just describe the workflow you want in text, and it automatically generates it. According to [this share (AI News)](https://x.com/tuturetom/status/1995758943000301831), the learning curve is practically zero, and the future looks bright for this one. ✨
-
-6.  When AI tries to wrap its circuits around human jokes... things can get pretty awkward. 😂 This AI-generated image perfectly captures that "I don't get it, but I'm utterly bewildered" vibe. 🤖<br/>![AI News: A Hilarious AI-Generated Image](https://source.hubtoday.app/images/2025/12/news_01kbfttzm9eect70dtyqnwrb8p.avif)
-
-7.  A netizen just noticed that **Liu Zhenyun's novels** are packed with "not... but rather..." sentence structures. 😂 This writing style is eerily similar to that standard "AI flavor," which is making everyone chuckle. It seems the gap between art and tech is way closer than [we thought (AI News)](https://x.com/vista8/status/1995694714520240579)! ✍️
+6.  The marketing 4P theory: which one's the most crucial? 🤔 A single image succinctly points out: Price. In an era where AI products are popping up everywhere, this [Simple Yet Profound Reminder (AI News)] might just bring some vendors back to reality. Money talks! 💸<br/>![AI News: Price is the Most Important in 4P Theory](https://source.hubtoday.app/images/2025/12/news_01kbjeqfxtfb9sppdzk2n1e8zn.avif)
 
 ---
 
-## **AI News Daily Voice Version**
+## **AI News Daily Audio Version**
 
-| 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
+| 🎧 **Xiaoyuzhou** | 🎬 **Douyin** |
 | --- | --- |
-| [Laisheng Speakeasy](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Speakeasy](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Laisheng Bistro](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![Bistro](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
