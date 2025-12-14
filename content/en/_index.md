@@ -2,83 +2,78 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-12/2025-12-13
+next: /en/2025-12/2025-12-14
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI News Daily 2025/12/14
+## AI Daily News Digest - December 15, 2025
 
-> 📰 AI News | Daily Briefing | Web Data Aggregation | Frontier Science Exploration | Industry Voice | Open Source Innovation | AI & Human Future | [Visit Web Version ↗️](https://ai.hubtoday.app/) | [Join Group Chat 🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
+> 📰 AI News | 🌅 Daily Briefing | 🌐 Web-wide Data Aggregation | 🔬 Cutting-Edge Scientific Exploration | 🗣️ Industry Voices | 💡 Open Source Innovation | 🤖 AI & Humanity's Future | [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
-### **Today's Summary**
+### **Today's Highlights**
 
 ```
-Runway launches GWM-1 general world model to build 3D spaces and virtual humans.
-Google Translate integrates Gemini, supporting real-time voice conversation translation in 70 languages.
-GPT-5.2 release met with negative reviews; high benchmark scores don't solve real-world conversation problems.
-Oracle's bet on OpenAI causes enterprise migration; AI layoffs potentially exceed expectations with no political solution.
-Open-source projects like CopilotKit boost AI co-pilot and agent workflow development.
+1. Over 1100 models' weights converge in a shared subspace, supporting Plato's theory of Forms to explain generalization.
+2. Weak-to-Strong GraphRAG framework boosts multi-hop reasoning, cutting inference costs by 30%.
+3. OpenAI open-sources sparse model with 99.9% zero weights, achieving computational transparency.
+4. ChatGPT's full memory injection vs. Claude's on-demand retrieval: Two paths, same destination.
+5. Zhejiang University open-sources LLM learning book, 13.5k stars, systematically covers theory to practice.
 ```
 
 ### Product & Feature Updates
 
-1.  Runway just dropped its "General World Model" GWM-1, totally reshaping AI creation with three core modules. This isn't just about content generation; [Runway's GWM-1 (AI News)](https://runwayml.com/research/introducing-runway-gwm-1) *really* understands how the world works! Its GWM-Worlds module crafts **infinitely explorable 3D spaces** with spacetime consistency. GWM-Avatars create audio-driven virtual characters, while GWM-Robotics provides synthetic training environments for robots. On top of that, the accompanying Gen-4.5 now features native audio generation and multi-shot consistent editing, enabling some seriously cool joint audio-video modeling. ✨<br/>![AI News: Runway GWM-1 Architecture Diagram](https://source.hubtoday.app/images/2025/12/news_01kcc4wnmyempbpgcgnct3qjww.avif)<br/>
-
-2.  Google Translate just got a major upgrade, now powered by the Gemini model, and it's a total game-changer for real-time voice translation. [Google's upgraded translation service (AI News)](https://www.xiaohu.ai/c/xiaohu-ai/google-5af468) leverages Gemini to understand context and tone, making translations sound way more natural. Text translation handles 20 languages, and its voice-to-voice translation is in Beta, supporting over 70 languages—your headphones can literally become an instant interpreter! 🤯 The speaking practice feature has also expanded to 20 countries, offering real-time corrections and progress tracking. Talk about a glow-up! ✨<br/>
-
-3.  Grok just got a deep integration with Tesla, making voice-activated route planning a total reality. Grok's voice commands can now recognize your intent and set routes for Teslas, even adjusting travel plans in real-time. Netizens are already sharing [demo videos (AI News)](https://x.com/imxiaohu/status/1999828212218781838) of this in action. If this integrates with FSD, imagine verbally commanding your car to complete complex tasks! That's next-level! 🚗<br/><video src="https://source.hubtoday.app/images/2025/12/news_01kcc4yajqekjtrwkapq6pkvqn.mp4"></video><br/>
-
-4.  Google Gemini Pro membership now lets you share its benefits with up to five people. Gemini Pro members can hook up to 5 others with their perks, and even gift friends a 4-month trial! Talk about a sweet deal, making the subscription model way more flexible. 🤝<br/>
+1.  **OpenAI's Sparse Model: Open-Sourced with 99.9% Zero Weights!**
+    OpenAI just dropped some news: their [Circuit Sparsity Model (AI News)](https://www.qbitai.com/2025/12/360864.html), boasting a tiny 0.4B parameters, has an insane 99.9% zero weights! This bad boy brings computational path transparency to the table. How? It uses mean-masking pruning to shrink task-specific circuits by a whopping 16x. Get this: experiments show you only need two MLP neurons to nail Python quote completion. Talk about a game-changer for explainable AI! 🚀
 
 ---
 
-### Frontier Research
+### Cutting-Edge Research
 
-1.  GPT-5.2 dropped and got slammed with bad reviews within 24 hours, highlighting a huge gap between benchmark tests and real-world usability. OpenAI's [GPT-5.2 (AI News)](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651007119&idx=1&sn=8808a5b8f75b6c33b1fd9a8e5c0815fd) even scored lower than Claude Sonnet 3.7 on SimpleBench, making a basic "garlic" letter 'r' count error – seriously?! 🤦 Its emotional intelligence seems to have taken a nosedive, giving mechanical responses to scenarios involving disfavored children. The safety refusal mechanism is overly strict, earning it criticism for being "inhumane." Netizens are roasting it, saying high benchmark scores don't mean squat in real conversation scenarios. 📉<br/>![AI News: GPT-5.2 Benchmark Comparison Bar Chart](https://source.hubtoday.app/images/2025/12/news_01kcc4zd41ewvb87bmpwbrzszf.avif)<br/>
+1.  **Over 1100 Models Converge to a Single Point: Unveiling AI's "World of Forms"!**
+    A mind-blowing discovery from the Johns Hopkins team: After a [deep dive (AI News)](https://www.jiqizhixin.com/articles/2025-12-14-11) into 1100 neural networks, they found that regardless of datasets or hyperparameters, the weights converged to a shared low-dimensional subspace! This kinda backs up Plato's 'Forms precede instances' philosophy. 🤯 The research sheds light on the generalization phenomenon in over-parameterized models, offering fresh perspectives for model compression and optimization. Check out the [Source: (AI News Daily)](https://www.arxiv.org/pdf/2512.05117) for the full scoop. ✨
 
-2.  Gemini TTS now offers precise control over voice parameters through simple prompts. Li Cang's [AI comic drama application (AI News)](https://x.com/op7418/status/1999491858662326281) showcases Gemini 2.5 TTS, letting users tweak gender, intonation, tone, and even the pronunciation of specific words—all with just a prompt! 🗣️ Paired with Nano Banana Pro for scene generation, this combo enables fully interactive storytelling. Pretty wild, right? ✨<br/><video src="https://source.hubtoday.app/images/2025/12/news_01kcc5002hexr8r7vhkqxjvd2g.mp4"></video><br/>
-
----
-
-### Industry Outlook & Social Impact
-
-1.  Oracle's massive bet on OpenAI is sparking a huge wave of contract losses and customer migrations. [Oracle went all-in, betting approximately $300 billion on OpenAI (AI News)](https://newshacker.me/story?id=46246031), and now, as long-term enterprise contracts expire, clients are flocking to PostgreSQL and OpenJDK to cut costs. Banks are gradually migrating via Amazon RDS, and some vendors, like Hyland, have even announced they're dropping Oracle support. Talk about a shake-up! 💸 Credit default swaps are climbing, and the market is getting a bit antsy about potential AI investment overheating. 🔥<br/>
-
-2.  AI-driven white-collar layoffs might be way bigger than we expect, and frankly, politicians are ghosting the problem. A hot Reddit thread points out that [AI can now perform knowledge work instead of just assisting (AI News)](https://www.reddit.com/r/artificial/comments/1plkvps/whitecollar_layoffs_are_coming_at_a_scale_weve/). With Opus 4.5, GPT-5.2, and Gemini 3.0 integrating into business processes, white-collar jobs could shrink by a whopping 30-70% over the next decade. 😬 The political sphere has zero solutions, and just saying "skill upgrades" isn't going to fix this mess. It's a wake-up call! 🚨<br/>
-
-3.  AI subscription dependency could lead to a "pharmaceutical" profit model, locking users in for life. Some folks believe LLM companies are getting teenagers hooked on AI to do their homework, only to jack up prices when they're adults and can't read or write without it—potentially charging 10% of their salary as a usage fee! 🤑 This dark business path, alongside automated layoffs, is one of the two major profit directions, yet it's rarely discussed in the [media (AI News)](https://www.reddit.com/r/artificial/comments/1pl9x64/the_unspoken_future_plan_for_ai/). Spooky! 👻<br/>
-
-4.  Netizens are calling for people to maintain a "human feel" and be wary of AI content becoming too generic. Tw93 posted that Chinese tweets are crammed with clickbait phrases like "brothers, it's blowing up!," and AI-generated content often lacks any real uniqueness. The post emphasizes keeping [personality traits and taste (AI News)](https://x.com/HiTw93/status/1999464403192979680) intact in the age of AI, urging everyone to avoid becoming mere appendages to the tech. Keep it real, folks! 🤖➡️🧑‍💻<br/>
+2.  **New Weak-to-Strong GraphRAG Framework: Boosting Multi-Hop Reasoning Accuracy!**
+    The ReG framework is making waves! A paper submitted to ICLR 2026 introduces this new Weak-to-Strong GraphRAG approach, designed to optimize graph retrievers using LLM feedback. It's tackling the messy structured data challenge head-on for GraphRAG. And get this: on CWQ-Sub tests, GPT-4o's [Macro-F1 hit 68.91% (AI News)](https://openreview.net/forum?id=GtjELGHkPB) with just 5% of the data, matching baseline models! This sweet method also slashes inference token consumption by 30%, making it super viable for production environments. 🔥<br/>![AI News: ReG Framework Comparison Results](https://source.hubtoday.app/images/2025/12/13022af850ede5a75284707dfb27779b.avif)<br/>
 
 ---
 
 ### Top Open Source Projects
 
-1.  CopilotKit is a React framework designed for building AI co-pilots. [CopilotKit (AI News)](https://github.com/CopilotKit/CopilotKit) provides the React UI and foundational infrastructure, making it super easy to develop AI co-pilots, chatbots, and in-app agents. It's already snagged ⭐25.8k stars and is seriously hot right now! 🔥<br/>
+1.  **ZJU's LLM Learning Book: 13.5K Stars and a Systemic Guide to LLM Fundamentals!**
+    Zhejiang University has open-sourced their fantastic [Foundations-of-LLMs Project (AI News)](https://github.com/ZJU-LLMs/Foundations-of-LLMs), which is basically a systematic goldmine of large model learning resources. This project has already racked up 13,527 stars 🌟 and covers everything from theoretical algorithms to engineering practices. It's perfect for researchers and engineers looking to get up to speed quickly, and honestly, it's becoming the 'textbook-level' repo for the LLM field! Highly recommended. 👍<br/>![AI News: LLM Learning Book Catalog Example](https://source.hubtoday.app/images/2025/12/42505d0432817ae78a872d5500343e76.avif)<br/>
 
-2.  MindsDB is a federated query engine tailored for AI. [MindsDB (AI News)](https://github.com/mindsdb/mindsdb) positions itself as an MCP server, supporting cross-data source querying and AI integration. It's already crushing it with ⭐37.8k stars! Pretty awesome! 🚀<br/>
+2.  **Daytona: Elastic AI Infrastructure with 37.1K Stars for Safer Generated Code!**
+    Daytona is stepping up the game, offering an elastic environment for securely running [AI-generated code (AI News)](https://github.com/daytonaio/daytona)! It's already bagged 37,103 stars, and for good reason. This tool tackles those nagging security and resource scheduling headaches in AI code deployment, supporting sandbox isolation and dynamic scaling. Developers can finally run code generated by tools like Copilot with peace of mind. What a relief! 🛡️<br/>![AI News: Daytona Architecture Diagram](https://source.hubtoday.app/images/2025/12/d54d4e91fc5eb4253823b5f8ef03fd31.avif)<br/>
 
-3.  Sim is an open-source AI agent workflow platform. [Sim (AI News)](https://github.com/simstudioai/sim) is your go-to for building and deploying AI agent workflows, boasting ⭐19.4k stars and consistently rising developer attention. Get on board! 🛠️<br/>
+3.  **HuLa: Cross-Platform IM with 5.8K Stars, Built with Rust+Vue3 for Extreme Performance!**
+    HuLaSpark just launched HuLa, an IM app rocking [Rust+Vue3 (AI News)](https://github.com/HuLaSpark/HuLa) for ultimate cross-platform compatibility – we're talking Windows, macOS, Linux, iOS, AND Android! This project has scored 5,799 stars thanks to its extreme performance and seamless cross-platform vibe. Rust at the core ensures high concurrency, while Vue3 juices up the front-end interaction. It's smooth sailing all the way! ⚡<br/>![AI News: HuLa Multi-Platform Interface Display](https://source.hubtoday.app/images/2025/12/1c168be769f8fda33d246dd0a3c2be70.avif)<br/>
+
+4.  **AI Hedge Fund Team: 42.7K Stars & an Open-Source Quant Trading Paradigm!**
+    The [ai-hedge-fund project (AI News)](https://github.com/virattt/ai-hedge-fund) by virattt is open-source and totally redefining quantitative trading! This project, with its stellar 42,683 stars, uses AI to build smart trading teams, integrating Alpha signal generation and risk management modules. Developers can tweak strategies and push the boundaries of machine learning in financial markets. This is seriously cool stuff for anyone into fintech! 💰<br/>![AI News: AI Hedge Fund Architecture Diagram](https://source.hubtoday.app/images/2025/12/e58911f797cb80b0a38f21816c66b5e0.avif)<br/>
+
+5.  **pi: The Minimalist AI Coding Agent That Says NO to Bloatware!**
+    Mario, the developer behind the [pi project (AI News)](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/), just dropped a super minimalist AI coding agent built on Node.js/TypeScript! This command-line bad boy only rocks four core functions: read, bash, edit, and write. It handles precise context management through a tiered AGENTS.md file. Unlike Cursor, pi is all about transparency and control. If you're tired of bloated tools, this might be your new best friend! 💻✨
 
 ---
 
 ### Social Media Shares
 
-1.  Vibe Coding just dropped a demo showing the complete workflow from prompt to slide deck. Baoyu shared a [slide generation tool (AI News)](https://x.com/dotey/status/1999666701902680551) that creates presentations from text or PDFs, supporting secondary editing and PPTX export. The initial prompt defines a dual-column layout (outline + real-time generation), with a tech stack featuring React, TailwindCSS 4, and Shadcn/UI. Talk about making presentations a breeze! 📊<br/><video src="https://video.twimg.com/amplify_video/1999659998930944004/vid/avc1/1920x1080/pmdZWWC7jQh7natc.mp4?tag=21"></video><br/>
+1.  **ChatGPT vs. Claude: Memory Mechanisms Unpacked! Two Paths, Same Destination!**
+    Blogger @manthanguptaa pulled off some reverse engineering to compare [ChatGPT and Claude's memory solutions (AI News)](https://x.com/shao__meng/status/2000184704243515434). ChatGPT goes for full injection and lightweight summaries, pre-computing recent conversations. Claude, on the other hand, uses on-demand retrieval, tapping into tool calls for precise recall. Basically, ChatGPT is your go-to for casual chats, while Claude shines in complex project development. Both get the job done, just in their own unique ways! 🤔💡<br/><br/>
 
-2.  SonarQube just rolled out a new MCP Server, integrating static code analysis directly into your workflow. This new MCP Server embeds SonarQube's inspection capabilities right into your IDE, scanning for security and reliability issues in real-time. ⚡ Interestingly, the Google DORA report shows AI usage jumped by 90%, but bugs also increased by 9%, and code review time shot up by 91%! Yikes! Check the [source (AI News)](https://x.com/shao__meng/status/1999635702934626367) for details. 📊<br/>
+2.  **SSE for LLM Token Streaming: Resumption Debate Heats Up! Protocol or Implementation?**
+    There's a hot debate brewing among developers about [whether SSE supports resumption (AI News)](https://newshacker.me/story?id=46203824) for streaming LLM tokens. The core disagreement? Is it a protocol problem or an implementation issue? While the SSE spec does support reconnection via the 'id' field, if the server hasn't persisted the state, you can't exactly pick up where you left off. Alternatives like WebSocket with pub/sub or cached proxies are on the table, but it all boils down to balancing cost and security compliance. A tricky one! 🔥
 
-3.  Coqui XTTS-v2 offers a free AI voice cloning guide using Google Colab. The XTTS-v2 (a 1.8GB pre-trained model) supports 16 languages and 24kHz output, running smoothly on Google Colab's free T4 GPU. 🎙️ The model uses the Coqui Public License (CPML), so it's only for non-commercial use. Get the full scoop in this [tutorial (AI News)](https://www.reddit.com/r/MachineLearning/comments/1plh4b3/p_ai_voice_cloning_with_coqui_xttsv2_on_google/)! ✨<br/>![AI News: Coqui XTTS-v2 Architecture Diagram](https://source.hubtoday.app/images/2025/12/news_01kcc508m8fjj9nrqzksh8kaah.avif)<br/>
-
-4.  Little Ear Sir is shouting out Devpost online hackathons. [Devpost (AI News)](https://devpost.com/) gathers tons of hackathon projects with sweet prize money, making it a prime spot for contestants to check out. Get those ideas flowing! 💡💰<br/>
+3.  **Google AI Boss Looks to 2026: Time for AI Products to Ditch the API Key Barrier!**
+    Reddit is buzzing about the [Google AI roadmap (AI News)](https://www.reddit.com/r/artificial/comments/1pm5w94/googles_ai_boss_just_sketched_2026_heres_what_it/), with one developer dropping a truth bomb: 'Products that require users to fill out API keys have already given up on the mass market.' 🙅‍♀️ While early products often went this route, simplifying authentication and lowering user barriers has become the industry standard for commercial tools today. It's all about making AI accessible to everyone! 🚀<br/>![AI News: Google AI 2026 Outlook Illustration](https://source.hubtoday.app/images/2025/12/ka9pDc20UD5j_ver8dfrv9rpj3Jntje1yXPsdb_pEQM.avif)<br/>
 
 ---
 
-## **AI News Daily Voice Version**
+## **AI News Daily - Audio Version**
 
-| 🎙️ **Podcast Platform** | 📹 **Douyin** |
-| :-------------------- | :------------- |
-| [Rebirth Tavern 🎧](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Media Account 📲](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Tavern](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
+| --- | --- |
+| [Whiskey Pub in the Next Life](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
+| ![Whiskey Pub](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
